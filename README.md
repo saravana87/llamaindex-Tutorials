@@ -1,4 +1,4 @@
-# LlamaIndex Tutorial in Tamil 🇮🇳🐪
+# LlamaIndex Tutorial in Tamil 🐪
 
 Welcome to the **LlamaIndex Tamil Tutorial Series**! This repository contains code, examples, and resources for learning about **LlamaIndex, AI indexing, embeddings, and vector search**, all explained in Tamil.
 
