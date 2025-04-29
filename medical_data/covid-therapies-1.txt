@@ -1,0 +1,33 @@
+1. Can J Physiol Pharmacol. 2020 Aug;98(8):483-489. doi: 10.1139/cjpp-2020-0286. 
+Epub 2020 Jul 8.
+
+Current therapies under investigation for COVID-19: potential COVID-19 
+treatments.
+
+Weisberg E(1)(2), Sattler M(1)(2)(3), Yang PL(4)(5), Parent A(1)(2), Gray N(6), 
+Griffin JD(1)(2).
+
+Author information:
+(1)Department of Medical Oncology, Dana-Farber Cancer Institute, Boston, MA 
+02215, USA.
+(2)Department of Medicine, Harvard Medical School, Boston, MA 02115, USA.
+(3)Department of Surgery, Brigham and Women's Hospital, MA 02115, USA.
+(4)Department of Cancer Cell Biology, Dana-Farber Cancer Institute, Boston, MA 
+02215, USA.
+(5)Department of Microbiology and Immunobiology, Harvard Medical School, Boston, 
+MA 02115, USA.
+(6)Department of Biological Chemistry and Molecular Pharmacology, Harvard 
+Medical School, Boston, MA 02115, USA.
+
+In response to the outbreak of severe acute respiratory syndrome coronavirus 2 
+(SARS-CoV-2), researchers are expeditiously searching for antiviral treatments 
+able to alleviate the symptoms of infection, which can be life-threatening. 
+Here, we provide a general overview of what is currently known about the 
+structure and characteristic features of SARS-CoV-2, some of which could 
+potentially be exploited for the purposes of antiviral therapy and vaccine 
+development. This minireview also covers selected and noteworthy antiviral 
+agents/supportive therapy out of hundreds of drugs that are being repurposed or 
+tested as potential treatments for COVID-19, the disease caused by SARS-CoV-2.
+
+DOI: 10.1139/cjpp-2020-0286
+PMID: 32640179 [Indexed for MEDLINE]
